@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "341983884427",
+    "firebase_url": "https://demos-1524639806476.firebaseio.com",
+    "project_id": "demos-1524639806476",
+    "storage_bucket": "demos-1524639806476.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341983884427:android:1d105f7f651a4864",
+        "android_client_info": {
+          "package_name": "com.ashish.googlelogindemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "341983884427-18u34q3qh0peei8ijnou8pj3rkcr3c79.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ashish.googlelogindemo",
+            "certificate_hash": "d85683e40a4d9075c01a725e097bcd25e400c931"
+          }
+        },
+        {
+          "client_id": "341983884427-qpjbilb2ou89a5imf1j7o09i67epkvhj.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "341983884427-jqi7fi4kfq9i1b8vddraeon2j95i4cea.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnznENgOBOYEcKclgitA-2mGDfAdfQzHM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "341983884427-qpjbilb2ou89a5imf1j7o09i67epkvhj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341983884427:android:2fec4e77e3cb25f9",
+        "android_client_info": {
+          "package_name": "com.sinchvideocalldemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "341983884427-3chn6fhghhr21ugoihle7pck025tgf9s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sinchvideocalldemo",
+            "certificate_hash": "7c197c6a9519a165b7baaec609c4119a191addf8"
+          }
+        },
+        {
+          "client_id": "341983884427-qpjbilb2ou89a5imf1j7o09i67epkvhj.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "341983884427-jqi7fi4kfq9i1b8vddraeon2j95i4cea.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnznENgOBOYEcKclgitA-2mGDfAdfQzHM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "341983884427-qpjbilb2ou89a5imf1j7o09i67epkvhj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
